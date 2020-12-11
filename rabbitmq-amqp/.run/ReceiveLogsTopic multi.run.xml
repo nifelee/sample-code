@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ReceiveLogsTopic multi" type="Multirun" factoryName="Multirun" separateTabs="false" reuseTabsWithFailures="false" startOneByOne="true" markFailedProcess="true" hideSuccessProcess="false" delayTime="0.0">
+    <runConfiguration name="ReceiveLogsTopic #" type="Application" />
+    <runConfiguration name="ReceiveLogsTopic kern.*" type="Application" />
+    <runConfiguration name="ReceiveLogsTopic *.critical" type="Application" />
+    <runConfiguration name="ReceiveLogsTopic kern.*&quot; &quot;*.critical" type="Application" />
+    <method v="2" />
+  </configuration>
+</component>

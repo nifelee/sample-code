@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="EmitLog parallel" type="Multirun" factoryName="Multirun" singleton="false" separateTabs="false" reuseTabsWithFailures="false" startOneByOne="true" markFailedProcess="true" hideSuccessProcess="false" delayTime="0.0">
+    <runConfiguration name="EmitLog" type="Application" />
+    <runConfiguration name="EmitLog param" type="Application" />
+    <method v="2" />
+  </configuration>
+</component>

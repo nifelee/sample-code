@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ReceiveLogsDirect multi" type="Multirun" factoryName="Multirun" separateTabs="false" reuseTabsWithFailures="false" startOneByOne="true" markFailedProcess="true" hideSuccessProcess="false" delayTime="0.0">
+    <runConfiguration name="ReceiveLogsDirect info error" type="Application" />
+    <runConfiguration name="ReceiveLogsDirect warning error" type="Application" />
+    <method v="2" />
+  </configuration>
+</component>
